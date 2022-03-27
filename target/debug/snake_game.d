@@ -1,0 +1,1 @@
+C:\Users\USER\ PC\snake_game\target\debug\snake_game.exe: C:\Users\USER\ PC\snake_game\src\draw.rs C:\Users\USER\ PC\snake_game\src\game.rs C:\Users\USER\ PC\snake_game\src\main.rs C:\Users\USER\ PC\snake_game\src\snake.rs

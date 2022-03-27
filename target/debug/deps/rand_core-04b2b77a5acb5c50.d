@@ -1,0 +1,12 @@
+C:\Users\USER PC\snake_game\target\debug\deps\rand_core-04b2b77a5acb5c50.rmeta: C:\Users\USER\ PC\.cargo\registry\src\github.com-1285ae84e5963aae\rand_core-0.6.3\src\lib.rs C:\Users\USER\ PC\.cargo\registry\src\github.com-1285ae84e5963aae\rand_core-0.6.3\src\block.rs C:\Users\USER\ PC\.cargo\registry\src\github.com-1285ae84e5963aae\rand_core-0.6.3\src\error.rs C:\Users\USER\ PC\.cargo\registry\src\github.com-1285ae84e5963aae\rand_core-0.6.3\src\impls.rs C:\Users\USER\ PC\.cargo\registry\src\github.com-1285ae84e5963aae\rand_core-0.6.3\src\le.rs C:\Users\USER\ PC\.cargo\registry\src\github.com-1285ae84e5963aae\rand_core-0.6.3\src\os.rs
+
+C:\Users\USER PC\snake_game\target\debug\deps\librand_core-04b2b77a5acb5c50.rlib: C:\Users\USER\ PC\.cargo\registry\src\github.com-1285ae84e5963aae\rand_core-0.6.3\src\lib.rs C:\Users\USER\ PC\.cargo\registry\src\github.com-1285ae84e5963aae\rand_core-0.6.3\src\block.rs C:\Users\USER\ PC\.cargo\registry\src\github.com-1285ae84e5963aae\rand_core-0.6.3\src\error.rs C:\Users\USER\ PC\.cargo\registry\src\github.com-1285ae84e5963aae\rand_core-0.6.3\src\impls.rs C:\Users\USER\ PC\.cargo\registry\src\github.com-1285ae84e5963aae\rand_core-0.6.3\src\le.rs C:\Users\USER\ PC\.cargo\registry\src\github.com-1285ae84e5963aae\rand_core-0.6.3\src\os.rs
+
+C:\Users\USER PC\snake_game\target\debug\deps\rand_core-04b2b77a5acb5c50.d: C:\Users\USER\ PC\.cargo\registry\src\github.com-1285ae84e5963aae\rand_core-0.6.3\src\lib.rs C:\Users\USER\ PC\.cargo\registry\src\github.com-1285ae84e5963aae\rand_core-0.6.3\src\block.rs C:\Users\USER\ PC\.cargo\registry\src\github.com-1285ae84e5963aae\rand_core-0.6.3\src\error.rs C:\Users\USER\ PC\.cargo\registry\src\github.com-1285ae84e5963aae\rand_core-0.6.3\src\impls.rs C:\Users\USER\ PC\.cargo\registry\src\github.com-1285ae84e5963aae\rand_core-0.6.3\src\le.rs C:\Users\USER\ PC\.cargo\registry\src\github.com-1285ae84e5963aae\rand_core-0.6.3\src\os.rs
+
+C:\Users\USER\ PC\.cargo\registry\src\github.com-1285ae84e5963aae\rand_core-0.6.3\src\lib.rs:
+C:\Users\USER\ PC\.cargo\registry\src\github.com-1285ae84e5963aae\rand_core-0.6.3\src\block.rs:
+C:\Users\USER\ PC\.cargo\registry\src\github.com-1285ae84e5963aae\rand_core-0.6.3\src\error.rs:
+C:\Users\USER\ PC\.cargo\registry\src\github.com-1285ae84e5963aae\rand_core-0.6.3\src\impls.rs:
+C:\Users\USER\ PC\.cargo\registry\src\github.com-1285ae84e5963aae\rand_core-0.6.3\src\le.rs:
+C:\Users\USER\ PC\.cargo\registry\src\github.com-1285ae84e5963aae\rand_core-0.6.3\src\os.rs:
